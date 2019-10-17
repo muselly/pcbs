@@ -4,3 +4,5 @@
 tempF = 70
 
 tempC = (tempF - 32) * 5/(9)
+
+print(tempC)
